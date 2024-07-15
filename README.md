@@ -50,3 +50,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ```bash
 https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/create-a-react-app-by-using-aws-amplify-and-add-authentication-with-amazon-cognito.html
 ```
+### MERN application
+```bash
+https://medium.com/towards-aws/deploying-mern-app-with-ecr-ecs-and-fargate-using-cloudformation-b54c03de707d
+```
